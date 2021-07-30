@@ -1,5 +1,4 @@
  !["PHP LOG "](https://www.php.net//images/logos/new-php-logo.svg )
-![](https://media.giphy.com/media/3gBrHplKKlleg/giphy.gif)
 # PHP-MVC-RAW
 Trying to create a MVC framework from scratch using only PHP 
 
@@ -12,6 +11,10 @@ Trying to create a MVC framework from scratch using only PHP
 ![](https://media.giphy.com/media/BZjZpr8tP8lVe/giphy.gif)
 
 <br/>
-2. Run this Comand <br/>
-``$ php -S localhost:<my_fav_port>``
+2. Run this Comand 
+<br/>
 
+```$ php -S localhost:port```
+ 
+
+![](https://media.giphy.com/media/3gBrHplKKlleg/giphy.gif)
