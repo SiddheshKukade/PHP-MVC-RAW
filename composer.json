@@ -1,0 +1,16 @@
+{
+    "name": "siddhya-op/php-mvc-siddhya-rush",
+    "description": "Complete MVC Framework created by Siddhesh Bhupendra Kukade",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "SiddheshKukade",
+            "email": "littlelord124@gmail.com"
+        }
+    ],
+    "require": {}
+}
